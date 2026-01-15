@@ -246,7 +246,7 @@ MonoBehaviour:
   - {fileID: 988656143610355917, guid: 6c033becb7c1df6408dc2cc4ab690ed4, type: 3}
   - {fileID: 988656143610355917, guid: 1f5abd1e47f04a843b885ee112beff9d, type: 3}
   - {fileID: 988656143610355917, guid: 93e2e5c6bd6e3784d92397ff9032e6e2, type: 3}
-  currentSkinIndex: 1
+  currentSkinIndex: 0
 --- !u!114 &224402247
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -348,12 +348,12 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: b1d017fd6f8f66945af29791766dde32, type: 3}
       propertyPath: m_Name
-      value: character-ooli (1)
+      value: Character
       objectReference: {fileID: 0}
     - target: {fileID: 6435320000920075851, guid: b1d017fd6f8f66945af29791766dde32, type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 988656143610355917, guid: 6c033becb7c1df6408dc2cc4ab690ed4, type: 3}
+      objectReference: {fileID: 988656143610355917, guid: b1d017fd6f8f66945af29791766dde32, type: 3}
     m_RemovedComponents:
     - {fileID: 2223639932434330405, guid: b1d017fd6f8f66945af29791766dde32, type: 3}
     m_RemovedGameObjects: []
